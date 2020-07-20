@@ -4,4 +4,4 @@ My name is Erin McNulty (she/hers) and I am a full stack web developer and a stu
 
 I mainly work in all things Javascript (React.js, Node.js, Express.js, Vanilla js) but also know Java and Python.
 
-Check out my [website](erinmcnulty.tech)!
+Check out my [website](http://erinmcnulty.tech)!
