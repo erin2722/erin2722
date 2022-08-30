@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Erin McNulty (she/hers) and I am a full stack web developer and a student at Columbia University.
+My name is Erin McNulty (she/hers) and I am a full stack developer and a student at Columbia University.
 
-I mainly work in all things Javascript (React.js, Vue.js, Node.js, Express.js, Vanilla js) but also know Java and Python.
+🔧 Though I got my start as a web programmer, I have recently been excited about systems programming, particularly distrbuted systems. I also have experience with database systems.
 
-Check out my [website](http://erinmcnulty.tech)!
+Check out my [website](https://erin2722.github.io/portfolio/)!
