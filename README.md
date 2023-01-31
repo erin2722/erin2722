@@ -3,7 +3,8 @@
 My name is Erin McNulty (she/hers) and I am a full stack developer and a student at Columbia University. I will be starting as a full-time software engineer at MongoDB on their service architecture team in Fall 2023.
 
 ![](https://img.shields.io/github/followers/erin2722?style=social) 
-[![check out my website](https://img.shields.io/badge/-check%20out%20my%20website!-blue)](https://erin2722.github.io/portfolio/)
+[![website](https://img.shields.io/badge/-website-orange)](https://erin2722.github.io/portfolio/)
+[![linkedin](https://img.shields.io/badge/-linkedin-blue)](https://www.linkedin.com/in/erin-mcnulty/)
 
 
 
