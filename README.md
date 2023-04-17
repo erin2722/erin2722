@@ -16,8 +16,8 @@ My name is Erin McNulty (she/her) and I am a full stack developer and a student 
 
 🔧 Though I got my start as a web programmer, I have recently been excited about systems programming, particularly database systems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erin2722&show_icons=true&locale=en&layout=compact&hide=vba" alt="erin2722" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erin2722&show_icons=true&locale=en&layout=compact&hide=vba" alt="erin2722" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erin2722&show_icons=true&locale=en" alt="erin2722" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erin2722&show_icons=true&locale=en" alt="erin2722" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erin2722&" alt="erin2722" /></p>
