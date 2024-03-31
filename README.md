@@ -1,4 +1,8 @@
-SWE at MongoDB working on networking and performance of the core database.
+SWE at MongoDB working on networking and performance of the core database, among other things.
+
+Formally: 
+🔧 Head of Engineering Columbia Daily Spectator, where I built and launched https://www.columbiaspectator.com/ and https://lionclubs.info/.
+📚 CS student at Columbia University, with a focus on database systems.
 
 ![](https://img.shields.io/github/followers/erin2722?style=social) 
 [![website](https://img.shields.io/badge/-website-orange)](https://erin2722.github.io/portfolio/)
