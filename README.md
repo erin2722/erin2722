@@ -2,7 +2,7 @@ SWE at MongoDB working on networking and performance of the core database, among
 
 Formally: 
 
-🔧 Head of Engineering Columbia Daily Spectator, where I built and launched https://www.columbiaspectator.com/ and https://lionclubs.info/.
+🔧 Head of Engineering at Columbia Daily Spectator, where I led a team that built and launched https://www.columbiaspectator.com/ and https://lionclubs.info/.
 
 📚 CS student at Columbia University, with a focus on database systems.
 
