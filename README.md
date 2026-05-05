@@ -1,6 +1,8 @@
-SWE at MongoDB on the Networking & Observability team for the core database.
+SWE at Braintrust
 
 Formally: 
+
+SWE at MongoDB on the Networking & Observability team for the core database.
 
 🔧 Head of Engineering at Columbia Daily Spectator, where I led a team that built and launched https://www.columbiaspectator.com/.
 
